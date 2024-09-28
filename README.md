@@ -19,6 +19,9 @@ JSON is used for message formatting and parsing, which allows for easy handling 
 The design follows the Model-View-Controller (MVC) pattern to some extent, separating the WebSocket client logic and user input handling.
 A CLI interface is implemented for simplicity, providing immediate feedback for monitoring real-time market data without the overhead of a graphical user interface.
 
+### Customization:
+- Make sure to replace `https://github.com/yourusername/CoinDCXWebSocketClient.git` with the actual URL of your GitHub repository.
+
 ## Libraries Used
 Java-WebSocket: A Java library for WebSocket client and server implementations.
 JSON: A simple library for parsing and creating JSON objects.
