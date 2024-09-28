@@ -20,7 +20,7 @@ The design follows the Model-View-Controller (MVC) pattern to some extent, separ
 A CLI interface is implemented for simplicity, providing immediate feedback for monitoring real-time market data without the overhead of a graphical user interface.
 
 ### Customization:
-- Make sure to replace `https://github.com/yourusername/CoinDCXWebSocketClient.git` with the actual URL of your GitHub repository.
+- Make sure to replace `https://github.com/vikashkumar7254/CoinDCX-WebSocket-API.git` with the actual URL of your GitHub repository.
 
 ## Libraries Used
 Java-WebSocket: A Java library for WebSocket client and server implementations.
